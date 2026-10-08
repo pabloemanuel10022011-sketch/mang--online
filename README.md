@@ -1,2 +1,2 @@
-# mang-online
+# mangá-online
 aulas percorre
