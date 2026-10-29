@@ -1,0 +1,54 @@
+//variaveis:
+
+//intergers - int
+let idade = 15
+
+// strings - str
+let nome = "Pablo"
+//boolean - bool
+let logado = false
+
+// Arrays e objetos:
+let supermercado = [
+    "Arroz", 
+    "Feijão",
+    "Tang",
+    "Coca-Cola",
+    "Picanha"
+]
+
+let produtos = {
+    nome: "picanha",
+    preco: 70,
+    validade: true
+}
+
+// funções e métodos e como funcionam:
+function somar (a, b) {
+    let resultado = a + b
+    return resultado;
+}
+//arrow function
+
+let x = somar(15, 38)
+
+let sub = (a, b) => {
+    let resultado = a - b
+    return resultado;
+}
+
+let y = sub(250, 100)
+
+console.log(y)
+
+//Arrow function
+let x = somar(15, 38)
+
+let sub = (a, b) => {
+    let resultado = a - b
+    return resultado;
+}
+
+let y = sub(250, 100)
+
+console.log(y)

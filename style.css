@@ -31,7 +31,7 @@ body{
 }
 
 .banner-container {
-    border-radius: 8px;/*deixa a borda arredondada (quanto maior o px mais redonda ficará a borda)*/
+    border-radius: 30px;/*deixa a borda arredondada (quanto maior o px mais redonda ficará a borda)*/
     overflow: hidden;
     display: flex;
     margin-bottom: 20px;
