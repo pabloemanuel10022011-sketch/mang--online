@@ -89,5 +89,3 @@ document.addEventListener("keydown", (event) => {
 
 UpdateReader(); 
 
-    
-     
